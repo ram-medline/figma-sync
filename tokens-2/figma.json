@@ -812,13 +812,21 @@
       }
     }
   },
+  "athome": {
+    "btn-border-radius": {
+      "value": "25",
+      "type": "borderRadius",
+      "description": "button radius"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "light",
       "dark",
-      "theme"
+      "theme",
+      "athome"
     ]
   }
 }
