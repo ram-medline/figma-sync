@@ -1,0 +1,70 @@
+{
+  "global": {
+    "Button Color": {
+      "value": "#0052CC",
+      "type": "color"
+    }
+  },
+  "primary button": {
+    "Default": {
+      "value": "#0052cc",
+      "type": "color",
+      "description": "Primary Button Default Color"
+    },
+    "Hover": {
+      "value": "#266CD4",
+      "type": "color",
+      "description": "Primary Button Hover Color"
+    },
+    "Selected": {
+      "value": "#0042A3",
+      "type": "color",
+      "description": "Primary Button Selected Color"
+    },
+    "Disabled": {
+      "value": "#6B768A",
+      "type": "color",
+      "description": "Primary Button Disabled Color"
+    }
+  },
+  "Secondary Button": {
+    "Default": {
+      "value": "#0052CC",
+      "type": "color",
+      "description": "Secondary Button Default Color"
+    },
+    "Hover": {
+      "value": "#266CD4",
+      "type": "color",
+      "description": "Secondary Button Hover Color"
+    },
+    "Selected": {
+      "value": "#0042A3",
+      "type": "color",
+      "description": "Secondary Button Selected Color"
+    },
+    "Disabled": {
+      "value": "#6B768A",
+      "type": "color",
+      "description": "Secondary Button Disabled Color"
+    },
+    "Button Border Width": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "Secondary Button Border Width"
+    },
+    "Border Radius": {
+      "value": "100%",
+      "type": "borderRadius",
+      "description": "Button Border Radius"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "primary button",
+      "Secondary Button"
+    ]
+  }
+}
